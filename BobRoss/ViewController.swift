@@ -8,6 +8,8 @@
 
 import UIKit
 
+import FLAnimatedImageView.h
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
